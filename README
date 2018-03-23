@@ -1,0 +1,11 @@
+Haos Redro
+==========
+
+README for AB201
+----------------
+
+The AB201 is a class-AB audio amplifier module designed to have a sufficiently low profile to fit into 1U rack-mounting cases. It has been designed to provide up to 200W RMS output power before clipping. Output powers of up to 300W may be possible with sufficient cooling but is NOT reccommended with the specified heatsink (Fischer Electronic SK499 profile)
+
+Notes on cooling:
+-----------------
+This module requires forced air cooling. The enclosure into which this module is installed must be designed to move air through the heatsink. There is provision for a two-lead temperature sensor for fan control and a TO-220 packaged NC thermostat to disconnect the output in case of overheating.
