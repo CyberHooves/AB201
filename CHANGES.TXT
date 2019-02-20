@@ -1,11 +1,13 @@
+20/02/2019: PCB changes
+=======================
+Routing cleanup
+
 16/04/2018: PCB changes
 =======================
 Silkscreen text moved to bottom copper layer
 Minor trace rerouting
 
 21/03/2018: Initial release
-
 ===========================
-
 Please note that this is a testing release and may not be suitable for production use.
 

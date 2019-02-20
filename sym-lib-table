@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name AB201-rescue)(type Legacy)(uri ${KIPRJMOD}/AB201-rescue.lib)(options "")(descr ""))
+  (lib (name HR-PARTS)(type Legacy)(uri "/run/media/taiyo/USB DISK/HR-PARTS.lib")(options "")(descr ""))
+)
